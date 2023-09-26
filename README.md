@@ -16,6 +16,7 @@ This project has been exclusively crafted for the sole purpose of serving admini
 
 # Forgot Password Page 
 ![Screenshot 2023-09-26 161225](https://github.com/Ziadeliwa001/Student-Affairs-Website/assets/92695464/ccbcb5d9-42ec-4c8c-9ae1-81005cc69823)
+![Screenshot 2023-09-26 162634](https://github.com/Ziadeliwa001/Student-Affairs-Website/assets/92695464/37c69673-9cc7-4491-81f6-54a3fe96ecd4)
 
 # Second Home Page 
 ![Screenshot 2023-09-26 161507](https://github.com/Ziadeliwa001/Student-Affairs-Website/assets/92695464/70b3ef2a-bd05-4054-865f-9e3a13d980c1)
