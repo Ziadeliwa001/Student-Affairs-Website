@@ -31,3 +31,11 @@ This project has been exclusively crafted for the sole purpose of serving admini
 # Active Students Page
 ![Screenshot 2023-09-26 162013](https://github.com/Ziadeliwa001/Student-Affairs-Website/assets/92695464/438db162-9528-4dcf-8d2e-baffab734613)
 
+# Assign Departments Page
+![Screenshot 2023-09-26 162218](https://github.com/Ziadeliwa001/Student-Affairs-Website/assets/92695464/dafffdea-601b-418b-9f1b-8e5a7596ab53)
+![Screenshot 2023-09-26 162241](https://github.com/Ziadeliwa001/Student-Affairs-Website/assets/92695464/edc15551-2042-4882-b029-13aeee2c715b)
+
+# Search for Active Students Page
+![Screenshot 2023-09-26 162412](https://github.com/Ziadeliwa001/Student-Affairs-Website/assets/92695464/ada9cee1-ec7e-4392-a901-51524f94ac50)
+
+
